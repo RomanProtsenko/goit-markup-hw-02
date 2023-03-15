@@ -5,3 +5,78 @@
 body {
     font-family: 'Open Sans'; sans-serif;
 }
+
+.list, .item {
+    list-style: none;
+    text-decoration: none;
+}
+
+.header-list-item {
+           font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+             letter-spacing: 0.02em;
+            color: #2E2F42;
+
+}
+
+.header-list-item:hover, .header-list-item:focus {
+    text-decoration-line: underline;
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+            letter-spacing: 0.02em;
+            color: #404BBF;
+                      }
+
+
+
+.button-order, .two-section-one-item-button {
+                background: #4D5AE5;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px;
+        font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+                       display: flex;
+            align-items: center;
+            letter-spacing: 0.04em;
+                    color: #FFFFFF;
+                    flex: none;
+            order: 0;
+            flex-grow: 0;
+}
+
+.button-order:hover, .button-order:focus,
+.two-section-one-item-button:hover,
+.two-section-one-item-button:focus {
+    background: #404BBF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px;
+        font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+                        display: flex;
+            align-items: center;
+            letter-spacing: 0.04em;
+                    color: #FFFFFF;
+                    flex: none;
+            order: 0;
+            flex-grow: 0;
+}
+
+.adres-list-mail, .adres-list-tel
+{font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+        letter-spacing: 0.02em;
+    color: #434455;}
+
+.adres-list-mail:hover, .adres-list-mail:focus {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+               letter-spacing: 0.02em;
+            color: #404BBF;
+}
