@@ -149,6 +149,7 @@ body {
 }
 
 .button-order {
+  font-family: "Roboto", sans-serif;
   background: var(--button-normal);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -199,6 +200,7 @@ body {
   cursor: pointer;
 }
 .two-section-one-item-button {
+  font-family: "Roboto", sans-serif;
   background: #f4f4fd;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
