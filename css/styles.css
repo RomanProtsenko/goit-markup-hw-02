@@ -168,7 +168,7 @@ body {
 }
 
 .button-order:hover {
-  background-color: #404bbf;
+  background-color: var(--hover-order);
 }
 
 .button-order:focus {
@@ -187,8 +187,8 @@ body {
 }
 
 .two-section-one-item-button:hover {
-  color: #ffffff;
-  background-color: #404bbf;
+  color: var(--brand-color);
+  background-color: var(--hover-order);
 }
 
 .two-section-one-item-button:focus {
