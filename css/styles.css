@@ -172,7 +172,7 @@ body {
 }
 
 .button-order:focus {
-  background: var(--hover-order);
+  background-color: var(--hover-order);
 }
 
 .two-section-one-item-button {
@@ -192,8 +192,8 @@ body {
 }
 
 .two-section-one-item-button:focus {
-  background: var(--hover-order);
-  color: #ffffff;
+  background-color: var(--hover-order);
+  color: var(--brand-color);
 }
 
 .adres-list-mail,
