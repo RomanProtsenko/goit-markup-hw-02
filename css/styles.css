@@ -164,10 +164,11 @@ body {
   flex: none;
   order: 0;
   flex-grow: 0;
+  cursor: pointer;
 }
 
 .button-order:hover {
-  background: var(--hover-order);
+  background-color: #404bbf;
 }
 
 .button-order:focus {
@@ -186,8 +187,8 @@ body {
 }
 
 .two-section-one-item-button:hover {
-  background: var(--hover-order);
-  color: var(--brand-color);
+  color: #ffffff;
+  background-color: #404bbf;
 }
 
 .two-section-one-item-button:focus {
