@@ -1,10 +1,13 @@
 :root {
+  --color-body: color: #434455;
+--brand-color: #ffffff;
+
 }
 
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
+    background-color: var(--brand-color);
+    color: var(--color-body)
 }
 
 .list {
