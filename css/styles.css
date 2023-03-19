@@ -204,7 +204,11 @@ body {
   background: #f4f4fd;
 }
 
-.two-section-one-item-button:hover,
+.two-section-one-item-button:hover {
+  background: var(--hover-order);
+  color: var(--brand-color);
+}
+
 .two-section-one-item-button:focus {
   background: var(--hover-order);
 }
