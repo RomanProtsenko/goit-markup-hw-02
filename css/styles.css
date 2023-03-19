@@ -173,9 +173,15 @@ body {
 .button-order:focus {
   background: var(--hover-order);
 }
+
 .two-section-one-item-button {
   font-family: "Roboto", sans-serif;
   background: #f4f4fd;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
 }
 
 .two-section-one-item-button:hover {
@@ -185,6 +191,7 @@ body {
 
 .two-section-one-item-button:focus {
   background: var(--hover-order);
+  color: #ffffff;
 }
 
 .adres-list-mail,
