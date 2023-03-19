@@ -202,37 +202,11 @@ body {
 .two-section-one-item-button {
   font-family: "Roboto", sans-serif;
   background: #f4f4fd;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-  border-radius: 4px;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.04em;
-  color: #4d5ae5;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
 }
 
 .two-section-one-item-button:hover,
 .two-section-one-item-button:focus {
   background: var(--hover-order);
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-  border-radius: 4px;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.04em;
-  color: var(--brand-color);
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-  cursor: pointer;
 }
 
 .adres-list-mail,
