@@ -1,14 +1,15 @@
 :root {
 }
 
-body
-  {font-family: "Roboto", sans-serif
+body {
+  font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF}
+  background-color: #ffffff;
+}
 
-  .list {
+.list {
   list-style: none;
- }
+}
 
 .link {
   text-decoration: none;
@@ -135,7 +136,6 @@ body
   color: #404bbf;
 }
 
-
 .header-list-item {
   font-weight: 500;
   font-size: 16px;
@@ -156,7 +156,7 @@ body
 }
 
 .two-section-one-item-button {
-  background: #F4F4FD;
+  background: #f4f4fd;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   font-style: normal;
@@ -218,7 +218,7 @@ body
   display: flex;
   align-items: center;
   letter-spacing: 0.04em;
-  color: #FFFFFF;
+  color: #ffffff;
   flex: none;
   order: 0;
   flex-grow: 0;
